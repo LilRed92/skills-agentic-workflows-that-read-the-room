@@ -14,7 +14,7 @@ tools:
 network:
   allowed:
     - defaults
-    - github.com
+    - github
     - github.blog
 safe-outputs:
   create-pull-request:
